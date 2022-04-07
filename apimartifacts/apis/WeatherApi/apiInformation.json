@@ -1,7 +1,7 @@
 {
   "name": "weatherapi",
   "properties": {
-    "path": "weather",
+    "path": "weatherapi",
     "displayName": "WeatherApi",
     "apiRevision": "1",
     "description": "",
