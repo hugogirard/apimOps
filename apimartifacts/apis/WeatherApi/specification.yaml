@@ -2,7 +2,7 @@ openapi: 3.0.1
 info:
   title: WeatherApi
   description: ''
-  version: '1.0'
+  version: '2.0'
 servers:
   - url: https://apihgops.azure-api.net/weather
 paths:
