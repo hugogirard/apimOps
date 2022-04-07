@@ -1,0 +1,5 @@
+C:\ado\apim-tools\tools\code\publisher\obj\Debug\net6.0\publisher.csproj.AssemblyReference.cache
+C:\ado\apim-tools\tools\code\publisher\obj\Debug\net6.0\publisher.GeneratedMSBuildEditorConfig.editorconfig
+C:\ado\apim-tools\tools\code\publisher\obj\Debug\net6.0\publisher.AssemblyInfoInputs.cache
+C:\ado\apim-tools\tools\code\publisher\obj\Debug\net6.0\publisher.AssemblyInfo.cs
+C:\ado\apim-tools\tools\code\publisher\obj\Debug\net6.0\publisher.csproj.CoreCompileInputs.cache

@@ -1,0 +1,12 @@
+C:\ado\apim-tools\tools\code\common\bin\Debug\net6.0\common.deps.json
+C:\ado\apim-tools\tools\code\common\bin\Debug\net6.0\common.dll
+C:\ado\apim-tools\tools\code\common\bin\Debug\net6.0\common.pdb
+C:\ado\apim-tools\tools\code\common\obj\Debug\net6.0\common.csproj.AssemblyReference.cache
+C:\ado\apim-tools\tools\code\common\obj\Debug\net6.0\common.GeneratedMSBuildEditorConfig.editorconfig
+C:\ado\apim-tools\tools\code\common\obj\Debug\net6.0\common.AssemblyInfoInputs.cache
+C:\ado\apim-tools\tools\code\common\obj\Debug\net6.0\common.AssemblyInfo.cs
+C:\ado\apim-tools\tools\code\common\obj\Debug\net6.0\common.csproj.CoreCompileInputs.cache
+C:\ado\apim-tools\tools\code\common\obj\Debug\net6.0\common.dll
+C:\ado\apim-tools\tools\code\common\obj\Debug\net6.0\refint\common.dll
+C:\ado\apim-tools\tools\code\common\obj\Debug\net6.0\common.pdb
+C:\ado\apim-tools\tools\code\common\obj\Debug\net6.0\ref\common.dll
