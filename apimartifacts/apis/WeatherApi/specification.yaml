@@ -1,0 +1,28 @@
+openapi: 3.0.1
+info:
+  title: WeatherApi
+  description: ''
+  version: '1.0'
+servers:
+  - url: https://apihgops.azure-api.net/weather
+paths:
+  /api/WeatherForecast:
+    get:
+      summary: Get Weather
+      operationId: get-weather
+      responses:
+        '200':
+          description: 
+components:
+  securitySchemes:
+    apiKeyHeader:
+      type: apiKey
+      name: Ocp-Apim-Subscription-Key
+      in: header
+    apiKeyQuery:
+      type: apiKey
+      name: subscription-key
+      in: query
+security:
+  - apiKeyHeader: [ ]
+  - apiKeyQuery: [ ]
