@@ -1,0 +1,15 @@
+{
+  "name": "weatherapi",
+  "properties": {
+    "path": "weather",
+    "displayName": "WeatherApi",
+    "apiRevision": "1",
+    "description": "",
+    "isCurrent": true,
+    "protocols": [
+      "https"
+    ],
+    "serviceUrl": "https://webapp-tiwp3dtt4njqs.azurewebsites.net",
+    "subscriptionRequired": true
+  }
+}
